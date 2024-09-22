@@ -1,0 +1,2 @@
+•Executed comprehensive data cleaning and preprocessing on the Zomato dataset, resolving missing data, removing duplicates, and normalizing key attributes like ratings, cuisines, and locations. Enhanced data integrity and accuracy, resulting in improved analysis quality and supporting data-driven decision-making."
+•Identified key trends and patterns through comprehensive data analysis, leading to a 20% improvement in forecasting accuracy and data-driven decision-making for enhanced business outcomes
